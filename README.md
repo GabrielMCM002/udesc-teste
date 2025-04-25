@@ -1,6 +1,8 @@
 # Primeiro projeto
 ## introdução
  Primeiro projeto no **GitHub** da [UDESC](https://www.udesc.br)
+ Dica do dia
+ > " É fazendo muita que se aduba a vida."
 ## instalação
 Para instalar do *software*, faça o *download* do projeto e siga os passos abaixo
 1. Entre no diretório
